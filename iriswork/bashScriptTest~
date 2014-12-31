@@ -1,0 +1,3 @@
+#! /bin/sh
+echo "hello world"
+matlab -nosplash -minimize writefile.m

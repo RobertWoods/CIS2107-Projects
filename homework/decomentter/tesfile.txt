@@ -1,0 +1,6 @@
+some/* crazy */stuff
+some/* crazy */ stuff
+some/*crazy /*crazy*/*/stuff
+"some /* crazy */ stuff"
+some/* "crazy" */ stuff
+some /* crazy stuff
